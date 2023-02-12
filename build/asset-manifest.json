@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fabriziomignogna/comp2156/static/css/main.7a7d29af.css",
+    "main.js": "/fabriziomignogna/comp2156/static/js/main.f79338b9.js",
+    "index.html": "/fabriziomignogna/comp2156/index.html",
+    "main.7a7d29af.css.map": "/fabriziomignogna/comp2156/static/css/main.7a7d29af.css.map",
+    "main.f79338b9.js.map": "/fabriziomignogna/comp2156/static/js/main.f79338b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.f79338b9.js"
+  ]
+}
